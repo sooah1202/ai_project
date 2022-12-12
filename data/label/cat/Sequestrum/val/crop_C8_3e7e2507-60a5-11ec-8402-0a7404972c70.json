@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "C8_3e7e2507-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2013-01-08 00:00:00",
+			"device": "검안경",
+			"gender": 1,
+			"age": 13,
+			"breed": "페르시안",
+			"medical_type": 1,
+			"width_height": [
+				1613,
+				1153
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				0,
+				0
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_C8_3e7e2507-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/고양이/안구/일반/각막부골편/유/crop_C8_3e7e2507-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			0.0,
+			0.0,
+			1613.0,
+			1153.0
+		],
+		"label_disease_nm": "각막부골편",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

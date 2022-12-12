@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "C43_33fb579b-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-08-21 00:00:00",
+			"device": "일반카메라",
+			"gender": 1,
+			"age": 2,
+			"breed": "브리티쉬 숏헤어",
+			"medical_type": 1,
+			"width_height": [
+				1209,
+				588
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				0,
+				0
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_C43_33fb579b-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/고양이/안구/일반/각막부골편/유/crop_C43_33fb579b-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			105.34,
+			526.7,
+			784.28,
+			319.41
+		],
+		"label_disease_nm": "각막부골편",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}

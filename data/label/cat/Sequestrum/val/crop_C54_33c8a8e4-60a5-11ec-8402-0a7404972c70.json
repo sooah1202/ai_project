@@ -1,0 +1,38 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "C54_33c8a8e4-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2017-12-01 00:00:00",
+			"device": "검안경",
+			"gender": 1,
+			"age": 7,
+			"breed": "엑조틱 숏헤어",
+			"medical_type": 1,
+			"width_height": [
+				1613,
+				1075
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	},
+	"label": {
+		"label_filename": "crop_C54_33c8a8e4-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_category_id": 1,
+		"label_path": "라벨링데이터/안구/고양이/안구/일반/각막부골편/유/crop_C54_33c8a8e4-60a5-11ec-8402-0a7404972c70.jpg",
+		"label_deleted": 0,
+		"label_bbox": [
+			0.0,
+			0.0,
+			1613.0,
+			1075.0
+		],
+		"label_disease_nm": "각막부골편",
+		"label_disease_lv_1": "유",
+		"label_disease_lv_2": "유",
+		"label_disease_lv_3": "유"
+	}
+}
